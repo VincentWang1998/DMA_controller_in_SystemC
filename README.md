@@ -55,7 +55,9 @@ DMA_controller_in_SystemC/
     |   +--	Memory.o
     |   +--	readme.txt
     |   +--	RESULT.vcd
-    |
+    +-- img/
+	|   +--	behavior_of_DMA.PNG
+	|
 	README.md
 ```
 
