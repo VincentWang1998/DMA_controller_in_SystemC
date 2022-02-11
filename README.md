@@ -6,9 +6,9 @@
 ## Project Description
 Develop a Direct Memory Access Controller (DMA/DMAC) in SystemC.
 
-* Specification
-	* The DMA behavior is illustrated as:
-	
+* Specification  
+	* The DMA behavior is illustrated as:  
+		![](./img/behavior_of_DMA.PNG)
 ```
 1. The DMA has:
 	i. Two (2) 32-bit bus ports: 32-bit address field, 32-bit data field,
@@ -56,9 +56,9 @@ DMA_controller_in_SystemC/
     |   +--	readme.txt
     |   +--	RESULT.vcd
     +-- img/
-	|   +--	behavior_of_DMA.PNG
-	|
-	README.md
+    |   +--	behavior_of_DMA.PNG
+    |
+    README.md
 ```
 
 
